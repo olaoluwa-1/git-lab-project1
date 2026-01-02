@@ -1,1 +1,1 @@
-"print('Hello from Dashboard')"
+"print('Hello form B')"
